@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487887545826",
+    "project_id": "cuartel-bombermans",
+    "storage_bucket": "cuartel-bombermans.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487887545826:android:aca077e572ac4c5964c5bb",
+        "android_client_info": {
+          "package_name": "com.darsstudio.cuartelbombermans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HMX3X2FuSoOZAnReoa57qyJwKhQEJg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487887545826:android:eec8d2adf0986fb164c5bb",
+        "android_client_info": {
+          "package_name": "com.example.cuartel_bombermans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HMX3X2FuSoOZAnReoa57qyJwKhQEJg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
